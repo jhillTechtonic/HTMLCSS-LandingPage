@@ -42,9 +42,9 @@ section {
 }
 
 .btn {
-    border: none;
+    border: 0;
     cursor: crosshair;
-    padding: 6px 12px 6px 12px;
+    padding: 6px 12px;
     border-radius: 3px;
     line-height: 1.4;
 }
