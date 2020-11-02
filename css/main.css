@@ -162,6 +162,11 @@ section {
     text-transform: uppercase;
 }
 
+.hero h1 {
+    position: relative;
+    left: -30px;
+}
+
 .hero > h2 {
     color: #faa541;
 }
@@ -222,7 +227,7 @@ section {
     text-align: center;
 }
 
-.category-text div {
+.category-text > div {
     font-size: 16px;
     font-weight: 200;
     color: #faa541;
